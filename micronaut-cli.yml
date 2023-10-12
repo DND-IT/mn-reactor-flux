@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: mn.reactor.flux
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, properties, reactor, reactor-http-client, readme, serialization-jackson, shade]
